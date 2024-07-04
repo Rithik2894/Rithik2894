@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Rithik2894
-- 👀 I’m interested in coding...so,am here to start learning about it.
-- 🌱 I’m currently learning python,c++
+- Hi, I’m Rithik
+- I’m currently learning Java
 
 <!---
 Rithik2894/Rithik2894 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
